@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class GerenciadorDePratos 
 {
     private ArrayList<Prato> pratos = new ArrayList<>();
-
+// escrevendo  comentário
     public void cadastrarPrato(Prato prato) 
     {
         pratos.add(prato);
